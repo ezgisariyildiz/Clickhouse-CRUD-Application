@@ -1,12 +1,15 @@
 # Clickhouse-CRUD-Application
 
-Run Clickhouse
+1-Run Clickhouse
+
 Open the docker folder: cd docker
 
 
-Run Clickhouse
+2-Run Clickhouse
+
 docker-compose up -d
 
 
-Login to DB using clickhouse client:
+3-Login to DB using clickhouse client:
+
 docker-compose run clickhouse-client --host clickhouse-server --user admin --password admin
