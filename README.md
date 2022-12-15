@@ -9,9 +9,9 @@ Open the docker folder: cd docker
 docker-compose up -d
 
 
-# 3-Login to DB using clickhouse client:
+# 3-Login to DB using Clickhouse Console:
 
-docker-compose run clickhouse-client --host clickhouse-server --user admin --password admin
+![servicee](https://user-images.githubusercontent.com/95285650/207973384-97644a6f-8e9e-430c-b848-c30c4128e588.png)
 
 ![ch-db](https://user-images.githubusercontent.com/95285650/207967599-bbcc0712-1df6-4b97-8dc6-696f5070b1de.png)
 
