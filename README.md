@@ -1,6 +1,6 @@
 # Clickhouse-CRUD-Application
 
-1-Run Clickhouse
+1-RUN CLICKHOUSE
 
 Open the docker folder: cd docker
 
