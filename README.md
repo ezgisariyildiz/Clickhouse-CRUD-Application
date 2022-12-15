@@ -45,9 +45,13 @@ Bu projede yapacağımız işlemler;
 # Kullanılan Teknolojiler ve Toollar
 
 Spring Boot 2.7.6
+
 JDK 8
+
 IDE: Intellij Idea
+
 Clickhouse Veritabanı
+
 Swagger UI
 
 Clickhouse veritabanını kullanmak için clickhouse-jdbs dependency pom dosyasına eklenmelidir.
